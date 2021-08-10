@@ -1,0 +1,8 @@
+Gastroenterologist 1
+Gynaecologist 0
+Paediatrician 1
+ENT_Specialist 0
+Dermatologist 1
+Orthopaedic_Specialist 0
+Ophthalmologist 1
+

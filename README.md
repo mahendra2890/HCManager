@@ -1,2 +1,8 @@
-# HCManager
-OOAD Course Project. Command line Health Center Management System for PHC IITJ
+# OOAD Course Project 2019
+
+Health Center Management System.
+
+Contributors:
+B18CSE011
+B18CSE020
+B18CSE028
